@@ -1,0 +1,7 @@
+.btn {
+    -fx-border-radius: 10px;
+}
+
+<graphic>
+               <FontIcon iconLiteral="fa-home" iconSize="64"/>
+            </graphic>
